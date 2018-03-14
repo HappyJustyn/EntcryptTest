@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ftproot>
+    <!-- 1:on,0:off -->
+    <ftproot-flag>1</ftproot-flag>
+    <ftproot-values>
+        <ftproot-value1>5LqsQUI4ODg4</ftproot-value1>
+        <!-- <ftproot-value2>京AB8881</ftproot-value2>
+        <ftproot-value3>京AB8882</ftproot-value3> -->
+    </ftproot-values>
+</ftproot>
